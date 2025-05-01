@@ -110,9 +110,13 @@ Feel free to use this research work. Let’s build a smarter CryptoPulse togethe
 You can connect with me on LinkedIn: https://www.linkedin.com/in/aamit-datascientist/
 
 ## 📝 Citation
-@article{kumar2025cryptopulse,
-  title={CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators},
+@INPROCEEDINGS{10982029,
   author={Kumar, Amit and Ji, Taoran},
-  journal={arXiv preprint arXiv:2502.19349},
-  year={2025}
-}
+  booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
+  title={CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={},
+  doi={10.1109/BigData62323.2024.10982029}}
