@@ -19,7 +19,7 @@ This dataset provides daily market data for the top 20 cryptocurrencies (by mark
 - positive, negative, neutral
 
 ### Macroeconomic Proxy Data (6 Cryptos)
-We used the top 5 cryptos every time to calculate Macroeconomic Proxy Data, except that Crypto, if it's in the top 5
+For cryptocurrencies in the top 5, the Macroeconomic Proxy Data is calculated using the price history of the other five cryptos from the top 6. For all other cryptos, the proxy is based on the top 5 cryptocurrencies.
 - **BTC:** Open_BTC, High_BTC, Low_BTC, Close_BTC, Volume_BTC
 - **ETH:** Open_ETH, High_ETH, Low_ETH, Close_ETH, Volume_ETH
 - **USDT:** Open_USDT, High_USDT, Low_USDT, Close_USDT, Volume_USDT
