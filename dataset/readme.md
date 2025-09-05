@@ -2,6 +2,8 @@
 
 This dataset provides daily market data for the top 20 cryptocurrencies (by market capitalization at the time of data collection), including price, volume, technical indicators, and sentiment derived from Cointelegraph news. It also contains macroeconomic proxy data derived from the 5 cryptocurrencies. In addition, it now includes the raw Cointelegraph news data, enabling users to perform their sentiment analysis if desired.
 
+To get a new stock price history or crypto history (daily, weekly, hourly), you can use the repo https://github.com/aamitssharma07/CryptoScrapperYahooFinance
+
 ## Overview
 
 - **Time Frame:** January 1, 2021, to April 1, 2024
